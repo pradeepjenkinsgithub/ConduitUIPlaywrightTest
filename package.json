@@ -1,0 +1,19 @@
+{
+  "name": "mate-conduit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.18",
+    "node-ts": "^8.0.3",
+    "typescript": "^5.8.3"
+  }
+}
