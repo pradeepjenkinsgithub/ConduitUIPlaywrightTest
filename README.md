@@ -12,6 +12,6 @@ Required
 
 Setup 
 
-git clone [https://github.com/YOUR-USERNAME/conduit-playwright-tests.git](https://github.com/pradeepjenkinsgithub/ConduitUIPlaywrightTest.git)
+git clone https://github.com/pradeepjenkinsgithub/ConduitUIPlaywrightTest.git
 npm install
 npx playwright test
